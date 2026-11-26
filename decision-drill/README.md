@@ -4,7 +4,7 @@
 
 Author: **AronHopeless**
 
-A Claude skill that helps you clarify and detail any project: an application, a thesis or paper, a research study. Instead of broad questions, the model asks a series of narrow ones and offers 2–4 ready-made solutions for each. You pick an option, add a comment to it, or write your own answer. At the end you get a Word document with everything that was worked out.
+AI skill that helps you clarify and detail any project: an application, a thesis or paper, a research study. Instead of broad questions, the model asks a series of narrow ones and offers 2–4 ready-made solutions for each. You pick an option, add a comment to it, or write your own answer. At the end you get a Word document with everything that was worked out.
 
 ## How a session works
 
