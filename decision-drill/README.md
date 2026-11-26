@@ -6,15 +6,6 @@ Author: **AronHopeless**
 
 A Claude skill that helps you clarify and detail any project: an application, a thesis or paper, a research study. Instead of broad questions, the model asks a series of narrow ones and offers 2–4 ready-made solutions for each. You pick an option, add a comment to it, or write your own answer. At the end you get a Word document with everything that was worked out.
 
-## Versions
-
-| Folder | Instruction language |
-|---|---|
-| `decision-drill-by-aron/` | English |
-| `decision-drill-by-aron-ru/` | Russian |
-
-Both versions work the same way, and in both cases the session runs in the language you write in. The English version takes up less of the model's context, so it is the recommended one. **Install only one:** if both are installed, they will compete for the same requests.
-
 ## How a session works
 
 1. **Settings.** You choose the answer format ("choose an option" or "free-form answer") and the session length: 50, 100, 150 or 200 questions.
